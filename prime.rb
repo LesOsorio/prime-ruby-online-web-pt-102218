@@ -1,1 +1,4 @@
-prime? [-1..101013]
+
+def prime?(array)
+   array = [-1..101013]
+ end 
