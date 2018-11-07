@@ -1,4 +1,4 @@
 
 def prime?(array)
- array.include?(num)
-end 
+ array.include?
+end
