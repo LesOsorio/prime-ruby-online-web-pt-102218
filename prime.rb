@@ -1,4 +1,4 @@
 
 def prime?(array)
-   array.include? 
+   array.each do |num|
  end
