@@ -1,4 +1,4 @@
 array = [-1..105557]
 def prime?(array)
- array.include?
+ array.include?(prime)
 end
